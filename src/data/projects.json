@@ -1,0 +1,62 @@
+[
+  {
+
+    "float":"Left",
+    "intro":"Project 1",
+    "title":"Kinos in Deutscland",
+    "content":"Im Rahmen dieses Projektes ist eine Webseite zum Darstellen von Kinos in Deutschland entwickelt. Auf dieser Website können Benutzer ein Profil erstellen und Einträge zu Kinos in Deutschland erstellen und speichern, sowie Einträge zu Filmen in den bestehenden Kino Einträgen erstellen und speichern. Der Nutzer kann die Website als Gast besuchen oder ein Profil anlegen und sich einloggen. Ziel der Website ist es, einen Überblick über die Kinos in Deutschland und die dort laufenden Filme zu schaffen, ohne dass der Nutzer die einzelnen Kino-Websites einzeln aufrufen muss.",
+    "btnclass":"readMore",
+    "btn":"Read More",
+    "icon":true,
+    "pId":"p1",
+    "flip":true,
+    "link":"https://github.com/Lubaba465/kinos_in_Deutschland-1.git",
+    "more":"https://github.com/Lubaba465/kinos_in_Deutschland-1.git",
+    "cat":"LAMP"
+  },
+  {
+    "float":"Right",
+    "intro":"Project 2",
+    "title":"Unterstützung der Lehrplanung im DfI durch",
+    "content":"In Betracht der Vorteile von Stud.IP wird die Softwareanwendung als Stud.IP-Plugin zur Unterstützung der Veranstaltungsplanung im DfI entwickelt, sodass die Plattform hinzugefügt wird und von Beiden Nutzergruppen(Lehrenden und Lehrplanenden) verwendet werden kann. Diese Softwareanwendung ermöglicht die Lehrende, ihre Daten selber ins Studip übertragen und ihre Daten aus früheren Semestern verwenden zu können. Lehrende und Sachbearbeiter/innen können sich authentifizieren und Informationen aus früheren Semestern übernehmen und anpassen",
+    "btnclass":"readMore",
+    "btn":"Read More",
+    "icon":true,
+    "pId":"p2",
+    "link":"https://github.com/Lubaba465/Veranstaltungsanmeldung.git",
+    "more":"https://github.com/Lubaba465/Veranstaltungsanmeldung.git",
+    "cat":"LAMP"
+
+  }
+,
+{
+
+  "float": "Right",
+
+  "intro":"Project 3",
+    "title":"Portfolio - Front End website (React & CSS)",
+     "content":"Ich muss damit beginnen, dass ich hier alles mit einer enormen Menge an Leidenschaft gemacht habe, Nicht, dass eines meiner Projekte ohne Leidenschaft war, aber in diesem einen Preticulary musste ich beweisen, dass ich wirklich kreativ bin, wie ich in meinem Lebenslauf sage, und versuchte, so viele coole Sachen, Animationen, Farben und einfach eine großartige Note hinzuzufügen, um die Blicke des Betrachters anzuziehen.  hoffentlich ist es mir gelungen\n",
+    "btnclass":"readMore",
+    "btn":"Read More",
+    "icon":true,
+    "pId":"p3",
+    "flip":true,
+    "link":"https://github.com/Lubaba465/portfolio.git",
+    "more":"https://github.com/Lubaba465/protfolio.git",
+    "cat":"Front End"
+  },
+{ "float": "Left",
+    "intro":"Project 4",
+    "title":"Frontend Mentor Challenge - Countries with color theme switcher (Json Server)",
+    "content":"Eine zweiseitige Web-App mit allen Ländern der Welt, die in Karten mit Daten aus Json server gerendert werden. Darüber hinaus können Länder nach Namen durchsucht und nach Kontinenten gefiltert werden. Es gibt eine einzige Seite mit zusätzlichen Informationen für jedes Land mit interaktiven Grenzländern.",
+
+
+    "btnclass":"readMore",
+    "btn":"Read More",
+    "icon":true,
+    "pId":"p4",
+    "link":"https://github.com/Lubaba465/reactapp.git",
+    "more":"https://github.com/Lubaba465/reactapp.git",
+    "cat":"Front End"
+  }
+]
